@@ -15,8 +15,14 @@
 
 - I’m interested in **Machine Learning**, **Data Science**, and **Software Engineering**
 - I like projects that are **clean, reproducible, and well-documented**
-- I enjoy combining **mathematical thinking** with **practical implementation**
 - My main interests include code: **NLP**, **CV**, **tabular ML**, **ranking**, and **math**
+
+---
+
+### 🎓 Education & Courses
+
+- **University:** RTU MIREA, Applied Mathematics and Computer Science
+- **Relevant coursework:** Machine Learning, Deep Learning, Algorithms, Data Structures, Probability Theory, Mathematical Statistics
 
 ---
 
