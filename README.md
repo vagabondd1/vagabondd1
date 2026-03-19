@@ -38,7 +38,7 @@
 
 **Tools:** Git, GitHub, Jupyter, Linux, Docker, PostgreSQL
 
-**Math background:** Mathematical Analysis, Analytic Geometry, Linear Algebra, Discrete Mathematics, Group Theory, Classical Differential Geometry, Functions of a Complex Variable
+**Math background:** Mathematical Analysis, Analytic Geometry, Linear Algebra, Probability Theory, Mathematical Statistics, Discrete Mathematics, Group Theory, Classical Differential Geometry, Functions of a Complex Variable
 
 ---
 
