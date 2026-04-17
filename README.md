@@ -15,7 +15,7 @@
 
 - I’m interested in **Machine Learning**, **Data Science**, and **Software Engineering**
 - I like projects that are **clean, reproducible, and well-documented**
-- My main interests include code: **NLP**, **CV**, **tabular ML**, **ranking**, and **math**
+- My main interests include code: **NLP**, **CV**, **tabular ML** and **math**
 
 ---
 
